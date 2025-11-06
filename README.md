@@ -52,8 +52,5 @@ A sleek, minimal, and modern clone of Twitter with a **Black & White UI theme**,
 ## 🤝 Contributing
 Pull requests are welcome! If you find any bugs or want to add new features, feel free to fork and contribute.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 _This is a personal UI/UX experiment project — not affiliated with Twitter, Inc._
