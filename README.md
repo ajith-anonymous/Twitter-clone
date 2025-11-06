@@ -1,16 +1,59 @@
-# React + Vite
+Twitter - Modern Black & White React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, minimal, and modern clone of Twitter with a **Black & White UI theme**, built using React. This project is focused on delivering a smooth user experience, clean design, and modular code architecture.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🌓 Elegant black & white theme
+- 🔍 Search bar functionality
+- 🐤 Tweet feed with scroll
+- 📱 Responsive design for all screen sizes
+- ♻️ Smooth UI interactions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Icons:** Lucide Icons
+- **Animations:** Framer Motion
 
-## React Compiler
+## 📂 Project Structure
+```
+📁 src
+ ┣ 📂 components      # Reusable UI components
+ ┣ 📂 pages           # Main pages and views
+ ┣ 📂 assets          # Static assets
+ ┣ 📂 styles          # Global styling
+ ┗ index.js          # App entry point
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Getting Started
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/twitter-black-white.git
+   ```
+2. **Navigate to the project**
+   ```bash
+   cd twitter-black-white
+   ```
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+4. **Run the app**
+   ```bash
+   npm start
+   ```
 
-## Expanding the ESLint configuration
+## 🧪 Testing & Development
+- The project uses React development server.
+- Make sure to run it on a local server for best performance.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🐞 Known Issues
+- Minor scroll glitch previously fixed in search bar section.
+
+## 🤝 Contributing
+Pull requests are welcome! If you find any bugs or want to add new features, feel free to fork and contribute.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+_This is a personal UI/UX experiment project — not affiliated with Twitter, Inc._
