@@ -2,6 +2,8 @@ Twitter - Modern Black & White React App
 
 A sleek, minimal, and modern clone of Twitter with a **Black & White UI theme**, built using React. This project is focused on delivering a smooth user experience, clean design, and modular code architecture.
 
+Preview - https://twitterclone-pi-five.vercel.app/
+
 ## ✨ Features
 - 🌓 Elegant black & white theme
 - 🔍 Search bar functionality
