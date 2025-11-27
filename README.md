@@ -29,7 +29,7 @@ Preview - https://twitterclone-pi-five.vercel.app/
 ## 🚀 Getting Started
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/twitter-black-white.git
+   git clone https://github.com/ajith-anonymous/Twitter-clone.git
    ```
 2. **Navigate to the project**
    ```bash
